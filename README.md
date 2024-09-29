@@ -1,0 +1,2 @@
+# pkm2png
+一个bash而已，主要还得看Android SDK的etc1tool，因为我是termux牢玩家，我就简单的打了个单个可执行文件，用之前得切root和unset LD_PRELOAD
